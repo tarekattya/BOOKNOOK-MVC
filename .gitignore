@@ -1,0 +1,63 @@
+# Build and publish output
+bin/
+obj/
+out/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Logs and database
+logs/
+*.log
+*.tlog
+*.pdb
+*.ldb
+*.sqlite
+*.sqlite3
+*.mdf
+*.ldf
+
+# Environment and temporary files
+.env
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
+*.bak
+
+# Visual Studio
+.vs/
+.vscode/
+*.code-workspace
+
+# Rider & JetBrains files
+.idea/
+*.iml
+
+# NuGet packages
+*.nupkg
+packages/
+.nuget/
+project.lock.json
+global.json
+
+# Entity Framework migrations
+Migrations/
+
+# Publish output
+publish/
+app.publish/
+
+# ASP.NET Core Hosting
+wwwroot/node_modules/
+wwwroot/lib/
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Docker
+*.container.cache
+**/docker-compose.override.yml
