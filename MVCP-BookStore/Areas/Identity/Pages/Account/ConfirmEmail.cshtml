@@ -1,0 +1,10 @@
+﻿@page
+@using Microsoft.AspNetCore.Identity.UI.V4.Pages.Account.Internal
+@model ConfirmEmailModel
+@{
+    ViewData["Title"] = "Email Confirmed";
+}
+
+<h1>@ViewData["Title"]</h1>
+<p>@Model.StatusMessage</p>
+<a asp-area="Identity" asp-page="/Account/Login" class="btn btn-primary">Go to Login</a>

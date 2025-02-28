@@ -1,0 +1,745 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\MVCP-BookStore\\last version\\MVCP-BookStore (1)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{48A6A4E9-A378-488A-A6E2-11AB09487F5C}|MVCP-BookStore\\MVCP-BookStore.csproj|e:\\mvcp-bookstore\\last version\\mvcp-bookstore (1)\\mvcp-bookstore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48A6A4E9-A378-488A-A6E2-11AB09487F5C}|MVCP-BookStore\\MVCP-BookStore.csproj|solutionrelative:mvcp-bookstore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48A6A4E9-A378-488A-A6E2-11AB09487F5C}|MVCP-BookStore\\MVCP-BookStore.csproj|e:\\mvcp-bookstore\\last version\\mvcp-bookstore (1)\\mvcp-bookstore\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48A6A4E9-A378-488A-A6E2-11AB09487F5C}|MVCP-BookStore\\MVCP-BookStore.csproj|solutionrelative:mvcp-bookstore\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48A6A4E9-A378-488A-A6E2-11AB09487F5C}|MVCP-BookStore\\MVCP-BookStore.csproj|e:\\mvcp-bookstore\\last version\\mvcp-bookstore (1)\\mvcp-bookstore\\views\\store\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{48A6A4E9-A378-488A-A6E2-11AB09487F5C}|MVCP-BookStore\\MVCP-BookStore.csproj|solutionrelative:mvcp-bookstore\\views\\store\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48A6A4E9-A378-488A-A6E2-11AB09487F5C}|MVCP-BookStore\\MVCP-BookStore.csproj|e:\\mvcp-bookstore\\last version\\mvcp-bookstore (1)\\mvcp-bookstore\\controllers\\storecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48A6A4E9-A378-488A-A6E2-11AB09487F5C}|MVCP-BookStore\\MVCP-BookStore.csproj|solutionrelative:mvcp-bookstore\\controllers\\storecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48A6A4E9-A378-488A-A6E2-11AB09487F5C}|MVCP-BookStore\\MVCP-BookStore.csproj|e:\\mvcp-bookstore\\last version\\mvcp-bookstore (1)\\mvcp-bookstore\\migrations\\20250228135455_updatingdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48A6A4E9-A378-488A-A6E2-11AB09487F5C}|MVCP-BookStore\\MVCP-BookStore.csproj|solutionrelative:mvcp-bookstore\\migrations\\20250228135455_updatingdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48A6A4E9-A378-488A-A6E2-11AB09487F5C}|MVCP-BookStore\\MVCP-BookStore.csproj|e:\\mvcp-bookstore\\last version\\mvcp-bookstore (1)\\mvcp-bookstore\\models\\bookstoredbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48A6A4E9-A378-488A-A6E2-11AB09487F5C}|MVCP-BookStore\\MVCP-BookStore.csproj|solutionrelative:mvcp-bookstore\\models\\bookstoredbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48A6A4E9-A378-488A-A6E2-11AB09487F5C}|MVCP-BookStore\\MVCP-BookStore.csproj|e:\\mvcp-bookstore\\last version\\mvcp-bookstore (1)\\mvcp-bookstore\\views\\book\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{48A6A4E9-A378-488A-A6E2-11AB09487F5C}|MVCP-BookStore\\MVCP-BookStore.csproj|solutionrelative:mvcp-bookstore\\views\\book\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/._sqlexpress/BookStoreDB/True/SqlTable/dbo.AspNetUsers.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\MVCP-BookStore\\last version\\MVCP-BookStore (1)\\MVCP-BookStore\\Migrations\\20250228125022_v10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MVCP-BookStore\\Migrations\\20250228125022_v10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48A6A4E9-A378-488A-A6E2-11AB09487F5C}|MVCP-BookStore\\MVCP-BookStore.csproj|e:\\mvcp-bookstore\\last version\\mvcp-bookstore (1)\\mvcp-bookstore\\models\\userroleintializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48A6A4E9-A378-488A-A6E2-11AB09487F5C}|MVCP-BookStore\\MVCP-BookStore.csproj|solutionrelative:mvcp-bookstore\\models\\userroleintializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48A6A4E9-A378-488A-A6E2-11AB09487F5C}|MVCP-BookStore\\MVCP-BookStore.csproj|e:\\mvcp-bookstore\\last version\\mvcp-bookstore (1)\\mvcp-bookstore\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48A6A4E9-A378-488A-A6E2-11AB09487F5C}|MVCP-BookStore\\MVCP-BookStore.csproj|solutionrelative:mvcp-bookstore\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48A6A4E9-A378-488A-A6E2-11AB09487F5C}|MVCP-BookStore\\MVCP-BookStore.csproj|e:\\mvcp-bookstore\\last version\\mvcp-bookstore (1)\\mvcp-bookstore\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{48A6A4E9-A378-488A-A6E2-11AB09487F5C}|MVCP-BookStore\\MVCP-BookStore.csproj|solutionrelative:mvcp-bookstore\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48A6A4E9-A378-488A-A6E2-11AB09487F5C}|MVCP-BookStore\\MVCP-BookStore.csproj|e:\\mvcp-bookstore\\last version\\mvcp-bookstore (1)\\mvcp-bookstore\\views\\book\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{48A6A4E9-A378-488A-A6E2-11AB09487F5C}|MVCP-BookStore\\MVCP-BookStore.csproj|solutionrelative:mvcp-bookstore\\views\\book\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48A6A4E9-A378-488A-A6E2-11AB09487F5C}|MVCP-BookStore\\MVCP-BookStore.csproj|e:\\mvcp-bookstore\\last version\\mvcp-bookstore (1)\\mvcp-bookstore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{48A6A4E9-A378-488A-A6E2-11AB09487F5C}|MVCP-BookStore\\MVCP-BookStore.csproj|solutionrelative:mvcp-bookstore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48A6A4E9-A378-488A-A6E2-11AB09487F5C}|MVCP-BookStore\\MVCP-BookStore.csproj|e:\\mvcp-bookstore\\last version\\mvcp-bookstore (1)\\mvcp-bookstore\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{48A6A4E9-A378-488A-A6E2-11AB09487F5C}|MVCP-BookStore\\MVCP-BookStore.csproj|solutionrelative:mvcp-bookstore\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48A6A4E9-A378-488A-A6E2-11AB09487F5C}|MVCP-BookStore\\MVCP-BookStore.csproj|e:\\mvcp-bookstore\\last version\\mvcp-bookstore (1)\\mvcp-bookstore\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48A6A4E9-A378-488A-A6E2-11AB09487F5C}|MVCP-BookStore\\MVCP-BookStore.csproj|solutionrelative:mvcp-bookstore\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48A6A4E9-A378-488A-A6E2-11AB09487F5C}|MVCP-BookStore\\MVCP-BookStore.csproj|e:\\mvcp-bookstore\\last version\\mvcp-bookstore (1)\\mvcp-bookstore\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{48A6A4E9-A378-488A-A6E2-11AB09487F5C}|MVCP-BookStore\\MVCP-BookStore.csproj|solutionrelative:mvcp-bookstore\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48A6A4E9-A378-488A-A6E2-11AB09487F5C}|MVCP-BookStore\\MVCP-BookStore.csproj|e:\\mvcp-bookstore\\last version\\mvcp-bookstore (1)\\mvcp-bookstore\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{48A6A4E9-A378-488A-A6E2-11AB09487F5C}|MVCP-BookStore\\MVCP-BookStore.csproj|solutionrelative:mvcp-bookstore\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48A6A4E9-A378-488A-A6E2-11AB09487F5C}|MVCP-BookStore\\MVCP-BookStore.csproj|e:\\mvcp-bookstore\\last version\\mvcp-bookstore (1)\\mvcp-bookstore\\areas\\identity\\pages\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{48A6A4E9-A378-488A-A6E2-11AB09487F5C}|MVCP-BookStore\\MVCP-BookStore.csproj|solutionrelative:mvcp-bookstore\\areas\\identity\\pages\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48A6A4E9-A378-488A-A6E2-11AB09487F5C}|MVCP-BookStore\\MVCP-BookStore.csproj|e:\\mvcp-bookstore\\last version\\mvcp-bookstore (1)\\mvcp-bookstore\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{48A6A4E9-A378-488A-A6E2-11AB09487F5C}|MVCP-BookStore\\MVCP-BookStore.csproj|solutionrelative:mvcp-bookstore\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48A6A4E9-A378-488A-A6E2-11AB09487F5C}|MVCP-BookStore\\MVCP-BookStore.csproj|e:\\mvcp-bookstore\\last version\\mvcp-bookstore (1)\\mvcp-bookstore\\views\\admin\\listallroles.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{48A6A4E9-A378-488A-A6E2-11AB09487F5C}|MVCP-BookStore\\MVCP-BookStore.csproj|solutionrelative:mvcp-bookstore\\views\\admin\\listallroles.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48A6A4E9-A378-488A-A6E2-11AB09487F5C}|MVCP-BookStore\\MVCP-BookStore.csproj|e:\\mvcp-bookstore\\last version\\mvcp-bookstore (1)\\mvcp-bookstore\\views\\admin\\deleterole.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{48A6A4E9-A378-488A-A6E2-11AB09487F5C}|MVCP-BookStore\\MVCP-BookStore.csproj|solutionrelative:mvcp-bookstore\\views\\admin\\deleterole.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48A6A4E9-A378-488A-A6E2-11AB09487F5C}|MVCP-BookStore\\MVCP-BookStore.csproj|e:\\mvcp-bookstore\\last version\\mvcp-bookstore (1)\\mvcp-bookstore\\areas\\identity\\pages\\account\\confirmemail.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48A6A4E9-A378-488A-A6E2-11AB09487F5C}|MVCP-BookStore\\MVCP-BookStore.csproj|solutionrelative:mvcp-bookstore\\areas\\identity\\pages\\account\\confirmemail.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48A6A4E9-A378-488A-A6E2-11AB09487F5C}|MVCP-BookStore\\MVCP-BookStore.csproj|e:\\mvcp-bookstore\\last version\\mvcp-bookstore (1)\\mvcp-bookstore\\areas\\identity\\pages\\account\\registerconfirmation.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48A6A4E9-A378-488A-A6E2-11AB09487F5C}|MVCP-BookStore\\MVCP-BookStore.csproj|solutionrelative:mvcp-bookstore\\areas\\identity\\pages\\account\\registerconfirmation.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48A6A4E9-A378-488A-A6E2-11AB09487F5C}|MVCP-BookStore\\MVCP-BookStore.csproj|e:\\mvcp-bookstore\\last version\\mvcp-bookstore (1)\\mvcp-bookstore\\services\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48A6A4E9-A378-488A-A6E2-11AB09487F5C}|MVCP-BookStore\\MVCP-BookStore.csproj|solutionrelative:mvcp-bookstore\\services\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48A6A4E9-A378-488A-A6E2-11AB09487F5C}|MVCP-BookStore\\MVCP-BookStore.csproj|e:\\mvcp-bookstore\\last version\\mvcp-bookstore (1)\\mvcp-bookstore\\areas\\identity\\pages\\account\\registerconfirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{48A6A4E9-A378-488A-A6E2-11AB09487F5C}|MVCP-BookStore\\MVCP-BookStore.csproj|solutionrelative:mvcp-bookstore\\areas\\identity\\pages\\account\\registerconfirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48A6A4E9-A378-488A-A6E2-11AB09487F5C}|MVCP-BookStore\\MVCP-BookStore.csproj|e:\\mvcp-bookstore\\last version\\mvcp-bookstore (1)\\mvcp-bookstore\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48A6A4E9-A378-488A-A6E2-11AB09487F5C}|MVCP-BookStore\\MVCP-BookStore.csproj|solutionrelative:mvcp-bookstore\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48A6A4E9-A378-488A-A6E2-11AB09487F5C}|MVCP-BookStore\\MVCP-BookStore.csproj|e:\\mvcp-bookstore\\last version\\mvcp-bookstore (1)\\mvcp-bookstore\\models\\defaultuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48A6A4E9-A378-488A-A6E2-11AB09487F5C}|MVCP-BookStore\\MVCP-BookStore.csproj|solutionrelative:mvcp-bookstore\\models\\defaultuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48A6A4E9-A378-488A-A6E2-11AB09487F5C}|MVCP-BookStore\\MVCP-BookStore.csproj|e:\\mvcp-bookstore\\last version\\mvcp-bookstore (1)\\mvcp-bookstore\\areas\\identity\\pages\\account\\confirmemail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{48A6A4E9-A378-488A-A6E2-11AB09487F5C}|MVCP-BookStore\\MVCP-BookStore.csproj|solutionrelative:mvcp-bookstore\\areas\\identity\\pages\\account\\confirmemail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48A6A4E9-A378-488A-A6E2-11AB09487F5C}|MVCP-BookStore\\MVCP-BookStore.csproj|e:\\mvcp-bookstore\\last version\\mvcp-bookstore (1)\\mvcp-bookstore\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48A6A4E9-A378-488A-A6E2-11AB09487F5C}|MVCP-BookStore\\MVCP-BookStore.csproj|solutionrelative:mvcp-bookstore\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48A6A4E9-A378-488A-A6E2-11AB09487F5C}|MVCP-BookStore\\MVCP-BookStore.csproj|e:\\mvcp-bookstore\\last version\\mvcp-bookstore (1)\\mvcp-bookstore\\areas\\identity\\pages\\account\\confirmemailchange.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{48A6A4E9-A378-488A-A6E2-11AB09487F5C}|MVCP-BookStore\\MVCP-BookStore.csproj|solutionrelative:mvcp-bookstore\\areas\\identity\\pages\\account\\confirmemailchange.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48A6A4E9-A378-488A-A6E2-11AB09487F5C}|MVCP-BookStore\\MVCP-BookStore.csproj|e:\\mvcp-bookstore\\last version\\mvcp-bookstore (1)\\mvcp-bookstore\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48A6A4E9-A378-488A-A6E2-11AB09487F5C}|MVCP-BookStore\\MVCP-BookStore.csproj|solutionrelative:mvcp-bookstore\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48A6A4E9-A378-488A-A6E2-11AB09487F5C}|MVCP-BookStore\\MVCP-BookStore.csproj|e:\\mvcp-bookstore\\last version\\mvcp-bookstore (1)\\mvcp-bookstore\\views\\book\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{48A6A4E9-A378-488A-A6E2-11AB09487F5C}|MVCP-BookStore\\MVCP-BookStore.csproj|solutionrelative:mvcp-bookstore\\views\\book\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48A6A4E9-A378-488A-A6E2-11AB09487F5C}|MVCP-BookStore\\MVCP-BookStore.csproj|e:\\mvcp-bookstore\\last version\\mvcp-bookstore (1)\\mvcp-bookstore\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48A6A4E9-A378-488A-A6E2-11AB09487F5C}|MVCP-BookStore\\MVCP-BookStore.csproj|solutionrelative:mvcp-bookstore\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48A6A4E9-A378-488A-A6E2-11AB09487F5C}|MVCP-BookStore\\MVCP-BookStore.csproj|e:\\mvcp-bookstore\\last version\\mvcp-bookstore (1)\\mvcp-bookstore\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{48A6A4E9-A378-488A-A6E2-11AB09487F5C}|MVCP-BookStore\\MVCP-BookStore.csproj|solutionrelative:mvcp-bookstore\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48A6A4E9-A378-488A-A6E2-11AB09487F5C}|MVCP-BookStore\\MVCP-BookStore.csproj|e:\\mvcp-bookstore\\last version\\mvcp-bookstore (1)\\mvcp-bookstore\\views\\store\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{48A6A4E9-A378-488A-A6E2-11AB09487F5C}|MVCP-BookStore\\MVCP-BookStore.csproj|solutionrelative:mvcp-bookstore\\views\\store\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48A6A4E9-A378-488A-A6E2-11AB09487F5C}|MVCP-BookStore\\MVCP-BookStore.csproj|e:\\mvcp-bookstore\\last version\\mvcp-bookstore (1)\\mvcp-bookstore\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{48A6A4E9-A378-488A-A6E2-11AB09487F5C}|MVCP-BookStore\\MVCP-BookStore.csproj|solutionrelative:mvcp-bookstore\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48A6A4E9-A378-488A-A6E2-11AB09487F5C}|MVCP-BookStore\\MVCP-BookStore.csproj|e:\\mvcp-bookstore\\last version\\mvcp-bookstore (1)\\mvcp-bookstore\\wwwroot\\css\\mycss.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{48A6A4E9-A378-488A-A6E2-11AB09487F5C}|MVCP-BookStore\\MVCP-BookStore.csproj|solutionrelative:mvcp-bookstore\\wwwroot\\css\\mycss.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48A6A4E9-A378-488A-A6E2-11AB09487F5C}|MVCP-BookStore\\MVCP-BookStore.csproj|e:\\mvcp-bookstore\\last version\\mvcp-bookstore (1)\\mvcp-bookstore\\views\\admin\\editrole.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{48A6A4E9-A378-488A-A6E2-11AB09487F5C}|MVCP-BookStore\\MVCP-BookStore.csproj|solutionrelative:mvcp-bookstore\\views\\admin\\editrole.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48A6A4E9-A378-488A-A6E2-11AB09487F5C}|MVCP-BookStore\\MVCP-BookStore.csproj|e:\\mvcp-bookstore\\last version\\mvcp-bookstore (1)\\mvcp-bookstore\\views\\admin\\addrole.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{48A6A4E9-A378-488A-A6E2-11AB09487F5C}|MVCP-BookStore\\MVCP-BookStore.csproj|solutionrelative:mvcp-bookstore\\views\\admin\\addrole.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48A6A4E9-A378-488A-A6E2-11AB09487F5C}|MVCP-BookStore\\MVCP-BookStore.csproj|e:\\mvcp-bookstore\\last version\\mvcp-bookstore (1)\\mvcp-bookstore\\viewmodels\\editroleviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48A6A4E9-A378-488A-A6E2-11AB09487F5C}|MVCP-BookStore\\MVCP-BookStore.csproj|solutionrelative:mvcp-bookstore\\viewmodels\\editroleviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48A6A4E9-A378-488A-A6E2-11AB09487F5C}|MVCP-BookStore\\MVCP-BookStore.csproj|e:\\mvcp-bookstore\\last version\\mvcp-bookstore (1)\\mvcp-bookstore\\viewmodels\\userroleviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48A6A4E9-A378-488A-A6E2-11AB09487F5C}|MVCP-BookStore\\MVCP-BookStore.csproj|solutionrelative:mvcp-bookstore\\viewmodels\\userroleviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48A6A4E9-A378-488A-A6E2-11AB09487F5C}|MVCP-BookStore\\MVCP-BookStore.csproj|e:\\mvcp-bookstore\\last version\\mvcp-bookstore (1)\\mvcp-bookstore\\viewmodels\\addroleviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48A6A4E9-A378-488A-A6E2-11AB09487F5C}|MVCP-BookStore\\MVCP-BookStore.csproj|solutionrelative:mvcp-bookstore\\viewmodels\\addroleviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48A6A4E9-A378-488A-A6E2-11AB09487F5C}|MVCP-BookStore\\MVCP-BookStore.csproj|e:\\mvcp-bookstore\\last version\\mvcp-bookstore (1)\\mvcp-bookstore\\views\\admin\\editusersinrole.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{48A6A4E9-A378-488A-A6E2-11AB09487F5C}|MVCP-BookStore\\MVCP-BookStore.csproj|solutionrelative:mvcp-bookstore\\views\\admin\\editusersinrole.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20250228135455_UpdatingData.cs",
+              "DocumentMoniker": "E:\\MVCP-BookStore\\last version\\MVCP-BookStore (1)\\MVCP-BookStore\\Migrations\\20250228135455_UpdatingData.cs",
+              "RelativeDocumentMoniker": "MVCP-BookStore\\Migrations\\20250228135455_UpdatingData.cs",
+              "ToolTip": "E:\\MVCP-BookStore\\last version\\MVCP-BookStore (1)\\MVCP-BookStore\\Migrations\\20250228135455_UpdatingData.cs",
+              "RelativeToolTip": "MVCP-BookStore\\Migrations\\20250228135455_UpdatingData.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T13:54:57.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BookStoreDBContext.cs",
+              "DocumentMoniker": "E:\\MVCP-BookStore\\last version\\MVCP-BookStore (1)\\MVCP-BookStore\\Models\\BookStoreDBContext.cs",
+              "RelativeDocumentMoniker": "MVCP-BookStore\\Models\\BookStoreDBContext.cs",
+              "ToolTip": "E:\\MVCP-BookStore\\last version\\MVCP-BookStore (1)\\MVCP-BookStore\\Models\\BookStoreDBContext.cs",
+              "RelativeToolTip": "MVCP-BookStore\\Models\\BookStoreDBContext.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAYwPoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T13:15:42.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "dbo.AspNetUsers [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/._sqlexpress/BookStoreDB/True/SqlTable/dbo.AspNetUsers.sql",
+              "ToolTip": "dbo.AspNetUsers [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-02-28T13:03:19.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20250228125022_v10.cs",
+              "DocumentMoniker": "E:\\MVCP-BookStore\\last version\\MVCP-BookStore (1)\\MVCP-BookStore\\Migrations\\20250228125022_v10.cs",
+              "RelativeDocumentMoniker": "MVCP-BookStore\\Migrations\\20250228125022_v10.cs",
+              "ToolTip": "E:\\MVCP-BookStore\\last version\\MVCP-BookStore (1)\\MVCP-BookStore\\Migrations\\20250228125022_v10.cs",
+              "RelativeToolTip": "MVCP-BookStore\\Migrations\\20250228125022_v10.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T12:50:23.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "E:\\MVCP-BookStore\\last version\\MVCP-BookStore (1)\\MVCP-BookStore\\Views\\Book\\Create.cshtml",
+              "RelativeDocumentMoniker": "MVCP-BookStore\\Views\\Book\\Create.cshtml",
+              "ToolTip": "E:\\MVCP-BookStore\\last version\\MVCP-BookStore (1)\\MVCP-BookStore\\Views\\Book\\Create.cshtml",
+              "RelativeToolTip": "MVCP-BookStore\\Views\\Book\\Create.cshtml",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAD4AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-28T12:36:46.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StoreController.cs",
+              "DocumentMoniker": "E:\\MVCP-BookStore\\last version\\MVCP-BookStore (1)\\MVCP-BookStore\\Controllers\\StoreController.cs",
+              "RelativeDocumentMoniker": "MVCP-BookStore\\Controllers\\StoreController.cs",
+              "ToolTip": "E:\\MVCP-BookStore\\last version\\MVCP-BookStore (1)\\MVCP-BookStore\\Controllers\\StoreController.cs",
+              "RelativeToolTip": "MVCP-BookStore\\Controllers\\StoreController.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAwC8AAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T16:05:02.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\MVCP-BookStore\\last version\\MVCP-BookStore (1)\\MVCP-BookStore\\Views\\Store\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVCP-BookStore\\Views\\Store\\Index.cshtml",
+              "ToolTip": "E:\\MVCP-BookStore\\last version\\MVCP-BookStore (1)\\MVCP-BookStore\\Views\\Store\\Index.cshtml",
+              "RelativeToolTip": "MVCP-BookStore\\Views\\Store\\Index.cshtml",
+              "ViewState": "AgIAACgAAAAAAAAAAAAiwDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-27T13:56:43.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "E:\\MVCP-BookStore\\last version\\MVCP-BookStore (1)\\MVCP-BookStore\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "MVCP-BookStore\\Controllers\\BookController.cs",
+              "ToolTip": "E:\\MVCP-BookStore\\last version\\MVCP-BookStore (1)\\MVCP-BookStore\\Controllers\\BookController.cs",
+              "RelativeToolTip": "MVCP-BookStore\\Controllers\\BookController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T16:02:11.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\MVCP-BookStore\\last version\\MVCP-BookStore (1)\\MVCP-BookStore\\Program.cs",
+              "RelativeDocumentMoniker": "MVCP-BookStore\\Program.cs",
+              "ToolTip": "E:\\MVCP-BookStore\\last version\\MVCP-BookStore (1)\\MVCP-BookStore\\Program.cs",
+              "RelativeToolTip": "MVCP-BookStore\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA3wCcAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T18:09:52.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "E:\\MVCP-BookStore\\last version\\MVCP-BookStore (1)\\MVCP-BookStore\\Views\\Book\\Edit.cshtml",
+              "RelativeDocumentMoniker": "MVCP-BookStore\\Views\\Book\\Edit.cshtml",
+              "ToolTip": "E:\\MVCP-BookStore\\last version\\MVCP-BookStore (1)\\MVCP-BookStore\\Views\\Book\\Edit.cshtml",
+              "RelativeToolTip": "MVCP-BookStore\\Views\\Book\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-28T12:37:17.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\MVCP-BookStore\\last version\\MVCP-BookStore (1)\\MVCP-BookStore\\Views\\Cart\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVCP-BookStore\\Views\\Cart\\Index.cshtml",
+              "ToolTip": "E:\\MVCP-BookStore\\last version\\MVCP-BookStore (1)\\MVCP-BookStore\\Views\\Cart\\Index.cshtml",
+              "RelativeToolTip": "MVCP-BookStore\\Views\\Cart\\Index.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAkwDAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-27T12:53:10.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "E:\\MVCP-BookStore\\last version\\MVCP-BookStore (1)\\MVCP-BookStore\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "MVCP-BookStore\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "E:\\MVCP-BookStore\\last version\\MVCP-BookStore (1)\\MVCP-BookStore\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "MVCP-BookStore\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-27T15:45:23.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "E:\\MVCP-BookStore\\last version\\MVCP-BookStore (1)\\MVCP-BookStore\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "MVCP-BookStore\\Controllers\\AdminController.cs",
+              "ToolTip": "E:\\MVCP-BookStore\\last version\\MVCP-BookStore (1)\\MVCP-BookStore\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "MVCP-BookStore\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAowLsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T11:15:34.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserRoleIntializer.cs",
+              "DocumentMoniker": "E:\\MVCP-BookStore\\last version\\MVCP-BookStore (1)\\MVCP-BookStore\\Models\\UserRoleIntializer.cs",
+              "RelativeDocumentMoniker": "MVCP-BookStore\\Models\\UserRoleIntializer.cs",
+              "ToolTip": "E:\\MVCP-BookStore\\last version\\MVCP-BookStore (1)\\MVCP-BookStore\\Models\\UserRoleIntializer.cs",
+              "RelativeToolTip": "MVCP-BookStore\\Models\\UserRoleIntializer.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAqwB4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T12:47:12.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "DeleteRole.cshtml",
+              "DocumentMoniker": "E:\\MVCP-BookStore\\last version\\MVCP-BookStore (1)\\MVCP-BookStore\\Views\\Admin\\DeleteRole.cshtml",
+              "RelativeDocumentMoniker": "MVCP-BookStore\\Views\\Admin\\DeleteRole.cshtml",
+              "ToolTip": "E:\\MVCP-BookStore\\last version\\MVCP-BookStore (1)\\MVCP-BookStore\\Views\\Admin\\DeleteRole.cshtml",
+              "RelativeToolTip": "MVCP-BookStore\\Views\\Admin\\DeleteRole.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-27T20:47:52.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Logout.cshtml",
+              "DocumentMoniker": "E:\\MVCP-BookStore\\last version\\MVCP-BookStore (1)\\MVCP-BookStore\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "RelativeDocumentMoniker": "MVCP-BookStore\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "ToolTip": "E:\\MVCP-BookStore\\last version\\MVCP-BookStore (1)\\MVCP-BookStore\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "RelativeToolTip": "MVCP-BookStore\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-27T22:53:44.634Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "E:\\MVCP-BookStore\\last version\\MVCP-BookStore (1)\\MVCP-BookStore\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "MVCP-BookStore\\Controllers\\CartController.cs",
+              "ToolTip": "E:\\MVCP-BookStore\\last version\\MVCP-BookStore (1)\\MVCP-BookStore\\Controllers\\CartController.cs",
+              "RelativeToolTip": "MVCP-BookStore\\Controllers\\CartController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T12:37:03.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "E:\\MVCP-BookStore\\last version\\MVCP-BookStore (1)\\MVCP-BookStore\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "MVCP-BookStore\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "E:\\MVCP-BookStore\\last version\\MVCP-BookStore (1)\\MVCP-BookStore\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "MVCP-BookStore\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAEIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-27T14:38:34.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\MVCP-BookStore\\last version\\MVCP-BookStore (1)\\MVCP-BookStore\\appsettings.json",
+              "RelativeDocumentMoniker": "MVCP-BookStore\\appsettings.json",
+              "ToolTip": "E:\\MVCP-BookStore\\last version\\MVCP-BookStore (1)\\MVCP-BookStore\\appsettings.json",
+              "RelativeToolTip": "MVCP-BookStore\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-27T12:29:35.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\MVCP-BookStore\\last version\\MVCP-BookStore (1)\\MVCP-BookStore\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MVCP-BookStore\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\MVCP-BookStore\\last version\\MVCP-BookStore (1)\\MVCP-BookStore\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MVCP-BookStore\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAiwC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-25T12:24:42.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ConfirmEmail.cshtml.cs",
+              "DocumentMoniker": "E:\\MVCP-BookStore\\last version\\MVCP-BookStore (1)\\MVCP-BookStore\\Areas\\Identity\\Pages\\Account\\ConfirmEmail.cshtml.cs",
+              "RelativeDocumentMoniker": "MVCP-BookStore\\Areas\\Identity\\Pages\\Account\\ConfirmEmail.cshtml.cs",
+              "ToolTip": "E:\\MVCP-BookStore\\last version\\MVCP-BookStore (1)\\MVCP-BookStore\\Areas\\Identity\\Pages\\Account\\ConfirmEmail.cshtml.cs",
+              "RelativeToolTip": "MVCP-BookStore\\Areas\\Identity\\Pages\\Account\\ConfirmEmail.cshtml.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAiwDkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T17:08:47.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ListAllRoles.cshtml",
+              "DocumentMoniker": "E:\\MVCP-BookStore\\last version\\MVCP-BookStore (1)\\MVCP-BookStore\\Views\\Admin\\ListAllRoles.cshtml",
+              "RelativeDocumentMoniker": "MVCP-BookStore\\Views\\Admin\\ListAllRoles.cshtml",
+              "ToolTip": "E:\\MVCP-BookStore\\last version\\MVCP-BookStore (1)\\MVCP-BookStore\\Views\\Admin\\ListAllRoles.cshtml",
+              "RelativeToolTip": "MVCP-BookStore\\Views\\Admin\\ListAllRoles.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-24T21:11:09.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "E:\\MVCP-BookStore\\last version\\MVCP-BookStore (1)\\MVCP-BookStore\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "MVCP-BookStore\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "E:\\MVCP-BookStore\\last version\\MVCP-BookStore (1)\\MVCP-BookStore\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "MVCP-BookStore\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-27T13:31:32.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "RegisterConfirmation.cshtml.cs",
+              "DocumentMoniker": "E:\\MVCP-BookStore\\last version\\MVCP-BookStore (1)\\MVCP-BookStore\\Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml.cs",
+              "RelativeDocumentMoniker": "MVCP-BookStore\\Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml.cs",
+              "ToolTip": "E:\\MVCP-BookStore\\last version\\MVCP-BookStore (1)\\MVCP-BookStore\\Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml.cs",
+              "RelativeToolTip": "MVCP-BookStore\\Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAiwEcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T17:10:22.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "EmailSender.cs",
+              "DocumentMoniker": "E:\\MVCP-BookStore\\last version\\MVCP-BookStore (1)\\MVCP-BookStore\\Services\\EmailSender.cs",
+              "RelativeDocumentMoniker": "MVCP-BookStore\\Services\\EmailSender.cs",
+              "ToolTip": "E:\\MVCP-BookStore\\last version\\MVCP-BookStore (1)\\MVCP-BookStore\\Services\\EmailSender.cs",
+              "RelativeToolTip": "MVCP-BookStore\\Services\\EmailSender.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAcwBkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T16:25:37.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "RegisterConfirmation.cshtml",
+              "DocumentMoniker": "E:\\MVCP-BookStore\\last version\\MVCP-BookStore (1)\\MVCP-BookStore\\Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml",
+              "RelativeDocumentMoniker": "MVCP-BookStore\\Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml",
+              "ToolTip": "E:\\MVCP-BookStore\\last version\\MVCP-BookStore (1)\\MVCP-BookStore\\Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml",
+              "RelativeToolTip": "MVCP-BookStore\\Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-27T14:38:32.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "E:\\MVCP-BookStore\\last version\\MVCP-BookStore (1)\\MVCP-BookStore\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "MVCP-BookStore\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "E:\\MVCP-BookStore\\last version\\MVCP-BookStore (1)\\MVCP-BookStore\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "MVCP-BookStore\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ViewState": "AgIAAG0AAAAAAAAAAAAiwHIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T14:41:02.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "DefaultUser.cs",
+              "DocumentMoniker": "E:\\MVCP-BookStore\\last version\\MVCP-BookStore (1)\\MVCP-BookStore\\Models\\DefaultUser.cs",
+              "RelativeDocumentMoniker": "MVCP-BookStore\\Models\\DefaultUser.cs",
+              "ToolTip": "E:\\MVCP-BookStore\\last version\\MVCP-BookStore (1)\\MVCP-BookStore\\Models\\DefaultUser.cs",
+              "RelativeToolTip": "MVCP-BookStore\\Models\\DefaultUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T14:22:29.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ConfirmEmail.cshtml",
+              "DocumentMoniker": "E:\\MVCP-BookStore\\last version\\MVCP-BookStore (1)\\MVCP-BookStore\\Areas\\Identity\\Pages\\Account\\ConfirmEmail.cshtml",
+              "RelativeDocumentMoniker": "MVCP-BookStore\\Areas\\Identity\\Pages\\Account\\ConfirmEmail.cshtml",
+              "ToolTip": "E:\\MVCP-BookStore\\last version\\MVCP-BookStore (1)\\MVCP-BookStore\\Areas\\Identity\\Pages\\Account\\ConfirmEmail.cshtml",
+              "RelativeToolTip": "MVCP-BookStore\\Areas\\Identity\\Pages\\Account\\ConfirmEmail.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-27T17:08:39.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "E:\\MVCP-BookStore\\last version\\MVCP-BookStore (1)\\MVCP-BookStore\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "MVCP-BookStore\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ToolTip": "E:\\MVCP-BookStore\\last version\\MVCP-BookStore (1)\\MVCP-BookStore\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeToolTip": "MVCP-BookStore\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T18:27:48.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ConfirmEmailChange.cshtml",
+              "DocumentMoniker": "E:\\MVCP-BookStore\\last version\\MVCP-BookStore (1)\\MVCP-BookStore\\Areas\\Identity\\Pages\\Account\\ConfirmEmailChange.cshtml",
+              "RelativeDocumentMoniker": "MVCP-BookStore\\Areas\\Identity\\Pages\\Account\\ConfirmEmailChange.cshtml",
+              "ToolTip": "E:\\MVCP-BookStore\\last version\\MVCP-BookStore (1)\\MVCP-BookStore\\Areas\\Identity\\Pages\\Account\\ConfirmEmailChange.cshtml",
+              "RelativeToolTip": "MVCP-BookStore\\Areas\\Identity\\Pages\\Account\\ConfirmEmailChange.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-27T17:08:37.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\MVCP-BookStore\\last version\\MVCP-BookStore (1)\\MVCP-BookStore\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MVCP-BookStore\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\MVCP-BookStore\\last version\\MVCP-BookStore (1)\\MVCP-BookStore\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MVCP-BookStore\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T16:11:01.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\MVCP-BookStore\\last version\\MVCP-BookStore (1)\\MVCP-BookStore\\Views\\Book\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVCP-BookStore\\Views\\Book\\Index.cshtml",
+              "ToolTip": "E:\\MVCP-BookStore\\last version\\MVCP-BookStore (1)\\MVCP-BookStore\\Views\\Book\\Index.cshtml",
+              "RelativeToolTip": "MVCP-BookStore\\Views\\Book\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-27T16:11:39.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "E:\\MVCP-BookStore\\last version\\MVCP-BookStore (1)\\MVCP-BookStore\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "MVCP-BookStore\\Controllers\\OrderController.cs",
+              "ToolTip": "E:\\MVCP-BookStore\\last version\\MVCP-BookStore (1)\\MVCP-BookStore\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "MVCP-BookStore\\Controllers\\OrderController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T16:04:43.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "E:\\MVCP-BookStore\\last version\\MVCP-BookStore (1)\\MVCP-BookStore\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "MVCP-BookStore\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "E:\\MVCP-BookStore\\last version\\MVCP-BookStore (1)\\MVCP-BookStore\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "MVCP-BookStore\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-27T14:36:51.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "E:\\MVCP-BookStore\\last version\\MVCP-BookStore (1)\\MVCP-BookStore\\Views\\Store\\Details.cshtml",
+              "RelativeDocumentMoniker": "MVCP-BookStore\\Views\\Store\\Details.cshtml",
+              "ToolTip": "E:\\MVCP-BookStore\\last version\\MVCP-BookStore (1)\\MVCP-BookStore\\Views\\Store\\Details.cshtml",
+              "RelativeToolTip": "MVCP-BookStore\\Views\\Store\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-27T14:20:56.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Mycss.css",
+              "DocumentMoniker": "E:\\MVCP-BookStore\\last version\\MVCP-BookStore (1)\\MVCP-BookStore\\wwwroot\\css\\Mycss.css",
+              "RelativeDocumentMoniker": "MVCP-BookStore\\wwwroot\\css\\Mycss.css",
+              "ToolTip": "E:\\MVCP-BookStore\\last version\\MVCP-BookStore (1)\\MVCP-BookStore\\wwwroot\\css\\Mycss.css",
+              "RelativeToolTip": "MVCP-BookStore\\wwwroot\\css\\Mycss.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-02-27T13:14:29.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "UserRoleViewModel.cs",
+              "DocumentMoniker": "E:\\MVCP-BookStore\\last version\\MVCP-BookStore (1)\\MVCP-BookStore\\ViewModels\\UserRoleViewModel.cs",
+              "RelativeDocumentMoniker": "MVCP-BookStore\\ViewModels\\UserRoleViewModel.cs",
+              "ToolTip": "E:\\MVCP-BookStore\\last version\\MVCP-BookStore (1)\\MVCP-BookStore\\ViewModels\\UserRoleViewModel.cs",
+              "RelativeToolTip": "MVCP-BookStore\\ViewModels\\UserRoleViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T20:11:45.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "E:\\MVCP-BookStore\\last version\\MVCP-BookStore (1)\\MVCP-BookStore\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "MVCP-BookStore\\Views\\_ViewImports.cshtml",
+              "ToolTip": "E:\\MVCP-BookStore\\last version\\MVCP-BookStore (1)\\MVCP-BookStore\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "MVCP-BookStore\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-27T13:31:47.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "EditRole.cshtml",
+              "DocumentMoniker": "E:\\MVCP-BookStore\\last version\\MVCP-BookStore (1)\\MVCP-BookStore\\Views\\Admin\\EditRole.cshtml",
+              "RelativeDocumentMoniker": "MVCP-BookStore\\Views\\Admin\\EditRole.cshtml",
+              "ToolTip": "E:\\MVCP-BookStore\\last version\\MVCP-BookStore (1)\\MVCP-BookStore\\Views\\Admin\\EditRole.cshtml",
+              "RelativeToolTip": "MVCP-BookStore\\Views\\Admin\\EditRole.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-24T20:56:36.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "AddRoleViewModel.cs",
+              "DocumentMoniker": "E:\\MVCP-BookStore\\last version\\MVCP-BookStore (1)\\MVCP-BookStore\\ViewModels\\AddRoleViewModel.cs",
+              "RelativeDocumentMoniker": "MVCP-BookStore\\ViewModels\\AddRoleViewModel.cs",
+              "ToolTip": "E:\\MVCP-BookStore\\last version\\MVCP-BookStore (1)\\MVCP-BookStore\\ViewModels\\AddRoleViewModel.cs",
+              "RelativeToolTip": "MVCP-BookStore\\ViewModels\\AddRoleViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T12:29:26.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "EditRoleViewModel.cs",
+              "DocumentMoniker": "E:\\MVCP-BookStore\\last version\\MVCP-BookStore (1)\\MVCP-BookStore\\ViewModels\\EditRoleViewModel.cs",
+              "RelativeDocumentMoniker": "MVCP-BookStore\\ViewModels\\EditRoleViewModel.cs",
+              "ToolTip": "E:\\MVCP-BookStore\\last version\\MVCP-BookStore (1)\\MVCP-BookStore\\ViewModels\\EditRoleViewModel.cs",
+              "RelativeToolTip": "MVCP-BookStore\\ViewModels\\EditRoleViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T20:08:14.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "AddRole.cshtml",
+              "DocumentMoniker": "E:\\MVCP-BookStore\\last version\\MVCP-BookStore (1)\\MVCP-BookStore\\Views\\Admin\\AddRole.cshtml",
+              "RelativeDocumentMoniker": "MVCP-BookStore\\Views\\Admin\\AddRole.cshtml",
+              "ToolTip": "E:\\MVCP-BookStore\\last version\\MVCP-BookStore (1)\\MVCP-BookStore\\Views\\Admin\\AddRole.cshtml",
+              "RelativeToolTip": "MVCP-BookStore\\Views\\Admin\\AddRole.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-27T12:36:39.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "EditUsersInRole.cshtml",
+              "DocumentMoniker": "E:\\MVCP-BookStore\\last version\\MVCP-BookStore (1)\\MVCP-BookStore\\Views\\Admin\\EditUsersInRole.cshtml",
+              "RelativeDocumentMoniker": "MVCP-BookStore\\Views\\Admin\\EditUsersInRole.cshtml",
+              "ToolTip": "E:\\MVCP-BookStore\\last version\\MVCP-BookStore (1)\\MVCP-BookStore\\Views\\Admin\\EditUsersInRole.cshtml",
+              "RelativeToolTip": "MVCP-BookStore\\Views\\Admin\\EditUsersInRole.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAqwAYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-26T10:07:33.261Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

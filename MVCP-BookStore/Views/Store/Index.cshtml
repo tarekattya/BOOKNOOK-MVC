@@ -1,0 +1,141 @@
+﻿@model IEnumerable<MVCP_BookStore.Models.Book>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Store</h1>
+
+<form class="p-3 bg-light rounded shadow-sm mb-3">
+    <h5 class="mb-3 fw-bold">🔍 Filter Search</h5>
+
+    <div class="row g-3 align-items-end">
+        <div class="col-md-4">
+            <label for="searchString" class="form-label">Filter by Title or Author</label>
+            <input type="text" name="searchString" placeholder="Enter title or author" class="form-control" />
+        </div>
+
+        <div class="col-md-3">
+            <label for="minPrice" class="form-label">Min Price</label>
+            <div class="input-group">
+                <span class="input-group-text">$</span>
+                <input type="number" class="form-control" name="minPrice" placeholder="$minPrice" aria-label="Min Price">
+            </div>
+        </div>
+
+        <div class="col-md-3">
+            <label for="maxPrice" class="form-label">Max Price</label>
+            <div class="input-group">
+                <span class="input-group-text">$</span>
+                <input type="number" class="form-control" name="maxPrice" placeholder="$MaxPrice" aria-label="Max Price">
+            </div>
+        </div>
+
+        <div class="col-md-2 d-flex gap-2">
+            <input type="submit" value="Filter" class="btn btn-primary w-100" />
+            <a asp-action="Index" class="btn btn-secondary w-100">Clear</a>
+        </div>
+    </div>
+</form>
+
+
+<div class="row">
+    <div class="">
+    </div>
+
+    @foreach (var book in Model)
+    {
+
+
+        <div class="col-4">
+            <div class="card my-2 store-card">
+                <a class="a-cleanup" asp-controller="Store" asp-action="Details" asp-route-id="@book.Id">
+                    <img src="@book.ImageUrl" class="card-img-top card-img-custom">
+                    <div class="card-body" style="height: 6em;">
+                        <h5 class="mb-3">@book.Title</h5>
+                    </div>
+                    <div class="card-body">
+                        <span class="card-text">@book.Price.ToString("c")</span>
+                        <span id="cart-message-@book.Id" class="cart-message text-success d-none">✔ Added to Cart</span>
+                        <a asp-controller="Cart" asp-action="AddToCart" asp-route-id="@book.Id"
+                           class="btn btn-warning store-btn"
+                           onclick="return showCartMessage(event, '@book.Id', this);">
+                            <i class="fa-solid fa-cart-plus"></i>
+                        </a>
+
+
+                    </div>
+                </a>
+            </div>
+        </div>
+
+
+    }
+    <div class="btn-toolbar mt-3" role="toolbar" aria-label="Toolbar with button groups">
+        <div class="btn-group me-2" role="group" aria-label="First group">
+            @if (ViewBag.currentPage > 1)
+            {
+                <a asp-action="Index" asp-route-page="@(ViewBag.currentPage-1)" class="btn btn-outline-info rounded shadow-sm mb-3">Previous</a>
+            }
+            @for (int i = 1; i <= ViewBag.Total; i++)
+            {
+                <a asp-action="Index" asp-route-page="@(i)" class="btn btn-outline-info rounded shadow-sm mb-3 @(i == ViewBag.currentPage ? "active" : "")">@(i)</a>
+            }
+            @if (ViewBag.currentPage < ViewBag.Total)
+            {
+                <a asp-action="Index" asp-route-page="@(ViewBag.currentPage + 1)" class="btn btn-outline-info rounded shadow-sm mb-3">Next</a>
+            }
+        </div>
+    </div>
+</div>
+
+
+
+
+
+
+
+
+<script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+
+<script>
+    function showCartMessage(event, bookId, element) {
+        event.preventDefault(); 
+
+        $.ajax({
+            url: element.href,
+            type: "GET", 
+            success: function(response) {
+                Swal.fire({
+                    title: "Added to Cart!",
+                    text: "This book has been added successfully.",
+                    icon: "success",
+                    timer: 1200, 
+                    showConfirmButton: false
+                });
+
+                updateCartCount();
+            },
+            error: function() {
+                Swal.fire({
+                    title: "Error!",
+                    text: "Something went wrong. Please try again.",
+                    icon: "error"
+                });
+            }
+        });
+
+        return false; 
+    }
+
+    function updateCartCount() {
+        $.ajax({
+            url: "/Cart/GetCartCount", 
+            type: "GET",
+            success: function(count) {
+                $("#cart-count").text(count); 
+            }
+        });
+    }
+</script>
